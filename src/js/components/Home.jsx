@@ -6,24 +6,24 @@ import Footer from "./footer.jsx";
 
 const cards = [
 	{
-		image: "https://picsum.photos/id/10/200/300",
-		title: "Parque",
-		description: "Parque con lindo paisaje",
+		image: "https://images.unsplash.com/photo-1596658591534-591d75e2f2f7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXxEQU9SZVZIdUZRVXx8ZW58MHx8fHx8",
+		title: "Workingggg",
+		description: "Me duelen los ojos",
 	},
 	{
-		image: "https://picsum.photos/id/17/200/300",
-		title: "Sendero",
-		description: "Sendero con lindo paisaje",
+		image: "https://images.unsplash.com/photo-1604902892819-21fa038166f8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		title: "Creando",
+		description: "Mi tiempo libre",
 	},
 	{
-		image: "https://picsum.photos/id/28/200/300",
-		title: "Bosque",
-		description: "Bosque con lindo paisaje",
+		image: "https://images.unsplash.com/photo-1517420704952-d9f39e95b43e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		title: "Bfff",
+		description: "Todo ordenado",
 	},
 	{
-		image: "https://picsum.photos/id/54/200/300",
-		title: "Montaña",
-		description: "Montaña con lindo paisaje",
+		image: "https://images.unsplash.com/photo-1603732551681-2e91159b9dc2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		title: "otro más",
+		description: "Dando todo",
 	}
 ];
 
